@@ -54,7 +54,4 @@
     </div>
 </template>
 
-<script src ="./CreateClient.js">
-
-
-</script>
+<script src ="./CreateClient.js"></script>
